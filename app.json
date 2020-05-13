@@ -1,0 +1,17 @@
+{
+  "name": "ExpoBert",
+  "displayName": "ExpoBert",
+  "expo": {
+    "name": "ExpoBert",
+    "slug": "ExpoBert",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
